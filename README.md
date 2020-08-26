@@ -3,6 +3,6 @@
 	1- When select the model and set on floor is display with small size?
 	2- When selected other model than bear, not selected?!
 
-### - How to run app on my phone?
+### - How to run AR app on my phone from android studio?
 
-### - If there are best tutorial for build AR App, tell me?
+### - If there are best tutorial for build AR App, tell me please?
